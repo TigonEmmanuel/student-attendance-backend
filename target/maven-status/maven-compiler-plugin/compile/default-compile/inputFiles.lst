@@ -1,0 +1,16 @@
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/StudentAttendanceSystemApplication.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/controllers/AdminController.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/controllers/AttendanceController.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/controllers/AttendanceReportController.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/controllers/HomeController.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/controllers/ProtectedController.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/controllers/StudentController.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/models/Admin.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/models/Attendance.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/models/Student.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/repositories/AdminRepository.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/repositories/AttendanceRepository.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/repositories/StudentRepository.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/security/JwtAuthenticationFilter.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/security/SecurityConfig.java
+/home/jojo/StudentAttendanceSystem/src/main/java/com/example/services/JwtUtil.java
